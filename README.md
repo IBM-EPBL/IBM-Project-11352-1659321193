@@ -2,9 +2,13 @@
 Crude Oil Price Prediction
 
 ## Team members:
-Krishna T
-Prithivi raj S
-Peter paul S
+
+Krishna 
+
+Prithivi raj 
+
+Peter paul Samuel
+
 Rakesh Dhilip 
 
 | Industry Mentor(s) Name | : | Sowjanya, Sandeep Doodigani |
