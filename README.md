@@ -11,7 +11,7 @@ Peter paul Samuel
 
 Rakesh Dhilip
 
-| Industry Mentor(s) Name | : | Sowjanya, Sandeep Doodigani |
+| Industry Mentor(s) Name | : | Shanthi                     |
 | ----------------------- | - | --------------------------- |
 | Faculty Mentor(s) Name  | : | Thilagavathi P              |
 
